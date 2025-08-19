@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/protege-tu-privacida",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a protege-tu-privacida",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/protege-tu-privacida.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://bitcu.co/privacidad-en-linea-vpn/"
+    },
+    "homepage": "https://bitcu.co/privacidad-en-linea-vpn/"
+}
